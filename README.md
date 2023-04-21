@@ -5,10 +5,10 @@ This repository contains programs written for low programming track at ALX Schoo
 ## Projects
 Each project contains several scripts, each with their own specific objectives and functionalities.
 
-### [0x00. Shell, basics](./0x00-hello_world)
+### [0x00. C - Hello, World](./0x00-hello_world)
 Introduction to the C language.
 
-### [0x01. Shell, permissions](./0x01-variables_if_else_while)
+### [0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)
 Understanding variables in C, as well as if else conditions.
 
 
