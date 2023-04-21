@@ -1,4 +1,4 @@
-# ALX System Engineering & DevOps - Bash
+# ALX Low-level Programming - C
 
 This repository contains programs written for low programming track at ALX School. In these projects, I learned about data structures, algorithms, and other low-level programming concepts while working in the C language. The specific list of projects contained in this repository are:
 
